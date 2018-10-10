@@ -4,10 +4,10 @@ resources:
 queue:
   name: Hosted macOS
 steps:
-- bash: ./ 'install-hugo.sh' 
+- bash: ./install-hugo.sh
   displayName: 'install hugo'
 
-- bash: ./ deploy.sh 
-  displayName: 'Bash Script'
+- bash: ./deploy.sh 
+  displayName: 'deploy'
 
 
