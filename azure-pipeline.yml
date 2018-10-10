@@ -1,11 +1,14 @@
 resources:
 - repo: self
   clean: true
+
+- checkout: self
+  submodules: true
   persistCredentials: true
 
 queue:
   name: Hosted macOS
-  
+
 steps:
 - bash: ./install-hugo.sh
   displayName: 'install hugo'
