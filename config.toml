@@ -1,4 +1,112 @@
 baseURL = "http://dotnetdevs.at/"
 languageCode = "en-us"
 title = ".NET Devs Austria"
-theme = "ananke"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "jane"
+
+
+paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
+rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
+
+defaultContentLanguage = "en"           # Default language to use
+
+
+[author]                  # essential                     # 必需
+  name = "Andreas Willich, Raoul Holzer, Gregor Beyerle"
+
+
+[permalinks]
+  post = "/posts/:slug/"
+
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = ""
+    name = "Meetups"
+    url = "/meetups"
+    weight = 15
+
+  [[menu.main]]
+    parent = "Meetups"
+    identifier = ""
+    name = "F#"
+    url = "/meetups/fsharp_vienna"
+    weight = 16
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/post"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "slack"
+    name = "Slack"
+    url = "https://join.slack.com/t/dotnetdevsaustria/shared_invite/enQtMjcyNTA1NjMxNjg2LWNhYmQ2NDM4MGFjNDA4MWFmZTE1MDRkNTViMWIzYzgyMGI1MjQ1ZTZlNjZmMTExZjFmMjNkODZjODZhOGFmZjU"
+    weight = 30
+
+[params]
+  since = "2017"            # Site creation time          # 站点建立时间
+  homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
+  rssFullContent = true     # if false, Rss feed instead of the summary
+
+  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
+  logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
+  keywords = []
+  description = ""
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true                                                                            # 是否开启目录
+  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
+  #contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  contentCopyright = false
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+
+  showMenuLanguageChooser = true
+
+  [params.social]                                         # 社交链接
+    #a-email = "mailto:your@email.com"
+    #b-stack-overflow = "http://localhost:1313"
+    #c-twitter = "http://localhost:1313"
+    #d-facebook = "http://localhost:1313"
+    #e-linkedin = "http://localhost:1313"
+    #f-google = "http://localhost:1313"
+    g-github = "https://github.com/dotnetdevsaustria"
+    #h-weibo = "http://localhost:1313"
+    #i-zhihu = "http://localhost:1313"
+    #j-douban = "http://localhost:1313"
+    #k-pocket = "http://localhost:1313"
+    #l-tumblr = "http://localhost:1313"
+    #m-instagram = "http://localhost:1313"
+    #n-gitlab = "http://localhost:1313"
+    #o-goodreads = "http://localhost:1313"
+    #p-coding = "http://localhost:1313"
+    #q-bilibili = "http://localhost:1313"
+
+
+[languages]
+  [languages.en]
+    title = ""
+    languageCode = "en"
+    LanguageName = "English"
+    weight = 1
+  [languages.de]
+    title = ""
+    languageCode = "de"
+    LanguageName = "Deutsch"
+    weight = 2
+ 
