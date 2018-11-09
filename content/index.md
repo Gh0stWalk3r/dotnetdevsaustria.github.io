@@ -1,7 +1,6 @@
 ---
-title: Home
+title: Willkommen bei den .NET Developers Austria
+date: 2018-01-01T00:00:00+02:00
 ---
 
-## .NET Developers Austria
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities um neuen potentiellen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden.

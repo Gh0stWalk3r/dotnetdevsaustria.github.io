@@ -9,7 +9,7 @@ theme = "jane"
 paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 
-defaultContentLanguage = "en"           # Default language to use
+defaultContentLanguage = "de"           # Default language to use
 
 
 [author]                  # essential                     # 必需
@@ -19,7 +19,7 @@ defaultContentLanguage = "en"           # Default language to use
 [permalinks]
   post = "/posts/:slug/"
 
-
+#[[menu]]
   [[menu.main]]
     identifier = "home"
     name = "Home"
@@ -27,21 +27,28 @@ defaultContentLanguage = "en"           # Default language to use
     weight = 10
 
   [[menu.main]]
-    identifier = ""
-    name = "Meetups"
-    url = "/meetups"
+    identifier = "communities"
+    name = "Communities"
+    url = "/communities"
     weight = 15
 
-  [[menu.main]]
-    parent = "Meetups"
-    identifier = ""
-    name = "F#"
-    url = "/meetups/fsharp_vienna"
+[[menu.main]]
+    parent = "communities"
+    identifier = "fsharp_vienna"
+    name = "F# Vienna"
+    url = "/communities/fsharp_vienna"
     weight = 16
+
+[[menu.main]]
+    parent = "communities"
+    identifier = "dotnet_community_austria"
+    name = ".NET Community Austria"
+    url = "/communities/dotnet_community_austria"
+    weight = 17
 
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Blog"
     url = "/post"
     weight = 20
 
