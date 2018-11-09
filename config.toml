@@ -1,4 +1,4 @@
-baseURL = "http://dotnetdevs.at/"
+baseURL = "https://dotnetdevs.at/"
 languageCode = "en-us"
 title = ".NET Devs Austria"
 enableRobotsTXT = true
