@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://dotnetdevs.at/sitemap.xml
+Sitemap: https://dotnetdevs.at/sitemap.xml
