@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>Willkommen bei den .NET Developers Austria</title>
+      <link>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</guid>
+      
+        <description>&lt;p&gt;Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities um neuen potentiellen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>.NET Community Austria</title>
       <link>https://dotnetdevs.at/communities/dotnet_community_austria/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
@@ -36,6 +48,17 @@
     </item>
     
     <item>
+      <title>Andreas Willich</title>
+      <link>https://dotnetdevs.at/team/andreaswillich/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/team/andreaswillich/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
       <title>F# |&gt; Vienna</title>
       <link>https://dotnetdevs.at/communities/fsharp_vienna/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
@@ -56,14 +79,36 @@
     </item>
     
     <item>
-      <title>Willkommen bei den .NET Developers Austria</title>
-      <link>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</link>
+      <title>Gregor Beyerle</title>
+      <link>https://dotnetdevs.at/team/gregorbeyerle/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</guid>
+      <guid>https://dotnetdevs.at/team/gregorbeyerle/</guid>
       
-        <description>&lt;p&gt;Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities um neuen potentiellen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden.&lt;/p&gt;
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://dotnetdevs.at/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/posts/hello-world/</guid>
+      
+        <description>&lt;p&gt;We are alive!&lt;/p&gt;
 </description>
+      
+    </item>
+    
+    <item>
+      <title>Raoul Holzer</title>
+      <link>https://dotnetdevs.at/team/raoulholzer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/team/raoulholzer/</guid>
+      
+        <description></description>
       
     </item>
     

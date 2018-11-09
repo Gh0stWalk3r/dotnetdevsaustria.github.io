@@ -20,5 +20,14 @@
       <description>Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities um neuen potentiellen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden.</description>
     </item>
     
+    <item>
+      <title>Hello World!</title>
+      <link>https://dotnetdevs.at/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/posts/hello-world/</guid>
+      <description>We are alive!</description>
+    </item>
+    
   </channel>
 </rss>

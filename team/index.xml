@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on </title>
+    <link>https://dotnetdevs.at/team/</link>
+    <description>Recent content in Teams on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://dotnetdevs.at/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andreas Willich</title>
+      <link>https://dotnetdevs.at/team/andreaswillich/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/team/andreaswillich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregor Beyerle</title>
+      <link>https://dotnetdevs.at/team/gregorbeyerle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/team/gregorbeyerle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raoul Holzer</title>
+      <link>https://dotnetdevs.at/team/raoulholzer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/team/raoulholzer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
