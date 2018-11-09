@@ -3,7 +3,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dotnetdevs.at/en/</loc>
+    <loc>https://dotnetdevs.at/en/communities/dotnet_community_austria/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/posts/hello-world/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -15,6 +20,22 @@
   
   <url>
     <loc>https://dotnetdevs.at/en/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/communities/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/communities/fsharp_vienna/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/post/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -12,11 +12,55 @@
     
     
     <item>
-      <title>Willkommen bei den .NET Developers Austria</title>
-      <link>https://dotnetdevs.at/</link>
+      <title>.NET Community Austria</title>
+      <link>https://dotnetdevs.at/communities/dotnet_community_austria/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/</guid>
+      <guid>https://dotnetdevs.at/communities/dotnet_community_austria/</guid>
+      
+        <description>&lt;p&gt;Die .NET Community Austria wurde von Jörg Egretzberger gegründet und seit Beginn 2017 haben Raoul Holzer und Andreas Willich die Organisation der Treffen übernommen.&lt;/p&gt;
+
+&lt;p&gt;Um am letzten Stand über die neuesten Treffen zu bleiben, tritt dem Meetup auf &lt;a href=&#34;https://www.meetup.com/dotnet-austria/&#34;&gt;https://www.meetup.com/dotnet-austria/&lt;/a&gt; bei.&lt;/p&gt;
+
+&lt;p&gt;Für zukünftige Treffen suchen wir noch Personen die etwas zu folgenden Themen vortragen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NodaTime &lt;a href=&#34;https://www.nodatime.org&#34;&gt;https://www.nodatime.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erstellung von NuGet Paketen&lt;/li&gt;
+&lt;li&gt;Verwendung von Paket &lt;a href=&#34;https://fsprojects.github.io/Paket/&#34;&gt;https://fsprojects.github.io/Paket/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simple Migrations &lt;a href=&#34;https://github.com/canton7/Simple.Migrations&#34;&gt;https://github.com/canton7/Simple.Migrations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In Depth Async/Await mit CancellationToken Verwendung&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>F# |&gt; Vienna</title>
+      <link>https://dotnetdevs.at/communities/fsharp_vienna/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/communities/fsharp_vienna/</guid>
+      
+        <description>&lt;p&gt;Andreas Schlapsi startete die F# |&amp;gt; Vienna Community zu Beginn 2015. Nach einem Hiatus von 2 Jahren wiederbelebte Gregor Beyerle und Andreas Willich das Meetup.&lt;/p&gt;
+
+&lt;p&gt;Um am letzten Stand über die neuesten Treffen zu bleiben, tritt dem Meetup auf &lt;a href=&#34;https://www.meetup.com/FSharp-Vienna/&#34;&gt;https://www.meetup.com/FSharp-Vienna/&lt;/a&gt; bei.&lt;/p&gt;
+
+&lt;p&gt;Für zukünftige Treffen suchen wir noch Personen die etwas zu folgenden Themen vortragen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;F# Sprachdetails&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Willkommen bei den .NET Developers Austria</title>
+      <link>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</guid>
       
         <description>&lt;p&gt;Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities um neuen potentiellen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden.&lt;/p&gt;
 </description>
