@@ -26,25 +26,25 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/"
     weight = 10
 
-  [[menu.main]]
-    identifier = "communities"
-    name = "Communities"
-    url = "/communities"
-    weight = 15
+  # [[menu.main]]
+  #   identifier = "communities"
+  #   name = "Communities"
+  #   url = "/communities"
+  #   weight = 15
 
-[[menu.main]]
-    parent = "communities"
-    identifier = "fsharp_vienna"
-    name = "F# Vienna"
-    url = "/communities/fsharp_vienna"
-    weight = 16
+# [[menu.main]]
+#     parent = "communities"
+#     identifier = "fsharp_vienna"
+#     name = "F# Vienna"
+#     url = "/communities/fsharp_vienna"
+#     weight = 16
 
-[[menu.main]]
-    parent = "communities"
-    identifier = "dotnet_community_austria"
-    name = ".NET Community Austria"
-    url = "/communities/dotnet_community_austria"
-    weight = 17
+# [[menu.main]]
+#     parent = "communities"
+#     identifier = "dotnet_community_austria"
+#     name = ".NET Community Austria"
+#     url = "/communities/dotnet_community_austria"
+#     weight = 17
 
   [[menu.main]]
     identifier = "posts"
@@ -52,11 +52,12 @@ defaultContentLanguage = "de"           # Default language to use
     weight = 20
     url = "/post/"
 
+
   [[menu.main]]
     identifier = "slack"
     name = "Slack"
     url = "https://join.slack.com/t/dotnetdevsaustria/shared_invite/enQtMjcyNTA1NjMxNjg2LWNhYmQ2NDM4MGFjNDA4MWFmZTE1MDRkNTViMWIzYzgyMGI1MjQ1ZTZlNjZmMTExZjFmMjNkODZjODZhOGFmZjU"
-    weight = 30
+    weight = 40
 
 [params]
   since = "2018"            # Site creation time          # 站点建立时间

@@ -1,6 +1,10 @@
 ---
 title: "F# |> Vienna"
 date: 2018-01-01T00:00:00+02:00
+menu:
+  main:
+    parent: 'Communities'
+    weight: 20
 ---
 
 Andreas Schlapsi startete die F# |> Vienna Community zu Beginn 2015. Nach einem Hiatus von 2 Jahren wiederbelebte Gregor Beyerle und Andreas Willich das Meetup.

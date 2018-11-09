@@ -1,6 +1,10 @@
 ---
 title: ".NET Community Austria"
 date: 2018-01-01T00:00:00+02:00
+menu:
+  main:
+    parent: 'Communities'
+    weight: 10
 ---
 
 Die .NET Community Austria wurde von Jörg Egretzberger gegründet und seit Beginn 2017 haben Raoul Holzer und Andreas Willich die Organisation der Treffen übernommen.  
