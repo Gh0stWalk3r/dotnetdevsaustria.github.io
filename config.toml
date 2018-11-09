@@ -48,9 +48,9 @@ defaultContentLanguage = "de"           # Default language to use
 
   [[menu.main]]
     identifier = "posts"
-    name = "Blog"
-    url = "/posts"
+    name = "Blog Archiv"
     weight = 20
+    url = "/post/"
 
   [[menu.main]]
     identifier = "slack"
@@ -84,7 +84,7 @@ defaultContentLanguage = "de"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   showMenuLanguageChooser = true
-  moreMeta = true
+  #moreMeta = true
 
   [params.social]                                         # 社交链接
     #a-email = "mailto:your@email.com"
