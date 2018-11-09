@@ -3,21 +3,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dotnetdevs.at/</loc>
+    <loc>https://dotnetdevs.at/en/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/categories/</loc>
+    <loc>https://dotnetdevs.at/en/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/tags/</loc>
+    <loc>https://dotnetdevs.at/en/tags/</loc>
     <priority>0</priority>
   </url>
   

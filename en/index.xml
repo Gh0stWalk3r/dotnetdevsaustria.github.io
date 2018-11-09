@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://dotnetdevs.at/</link>
+    <link>https://dotnetdevs.at/en/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
+    <language>en</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
     
-        <atom:link href="https://dotnetdevs.at/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dotnetdevs.at/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Willkommen bei den .NET Developers Austria</title>
-      <link>https://dotnetdevs.at/</link>
+      <link>https://dotnetdevs.at/en/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/</guid>
+      <guid>https://dotnetdevs.at/en/</guid>
       
         <description>&lt;p&gt;Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities um neuen potentiellen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden.&lt;/p&gt;
 </description>
