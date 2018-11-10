@@ -27,6 +27,86 @@ defaultContentLanguage = "de"           # Default language to use
     weight = 10
 
   [[menu.main]]
+    identifier = "bundeslaender"
+    name = "Bundesländer"
+    url = "/bundesland"
+    weight = 12
+
+  [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "wien"
+    name = "Wien"
+    url = "/bundesland/wien"
+    weight = 1
+
+  [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "niederoesterreich"
+    name = "Niederösterreich"
+    url = "/bundesland/niederoesterreich"
+    weight = 2
+
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "burgenland"
+    name = "Burgenland"
+    url = "/bundesland/burgenland"
+    weight = 3
+
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "oberoesterreich"
+    name = "Oberösterreich"
+    url = "/bundesland/oberoesterreich"
+    weight = 4
+
+
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "salzburg"
+    name = "Salzburg"
+    url = "/bundesland/salzburg"
+    weight = 5
+
+
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "tirol"
+    name = "Tirol"
+    url = "/bundesland/tirol"
+    weight = 6
+
+  
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "vorarlberg"
+    name = "Vorarlberg"
+    url = "/bundesland/vorarlberg"
+    weight = 7
+
+
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "steiermark"
+    name = "Steiermark"
+    url = "/bundesland/steiermark"
+    weight = 8
+
+ [[menu.main]]
+    parent = "bundeslaender"
+    identifier = "kaernten"
+    name = "Kärnten"
+    url = "/bundesland/kaernten"
+    weight = 9
+
+  
+
+
+
+ 
+
+
+  [[menu.main]]
     identifier = "communities"
     name = "Communities"
     url = "/communities"
