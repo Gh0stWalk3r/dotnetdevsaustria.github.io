@@ -38,12 +38,63 @@
   </url>
   
   <url>
+    <loc>https://dotnetdevs.at/bundesland/niederoesterreich/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/oberoesterreich/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dotnetdevs.at/team/raoulholzer/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://dotnetdevs.at/bundesland/burgenland/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/kaernten/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/salzburg/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/steiermark/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/tirol/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/vorarlberg/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/wien/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dotnetdevs.at/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
