@@ -26,25 +26,25 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/"
     weight = 10
 
-  # [[menu.main]]
-  #   identifier = "communities"
-  #   name = "Communities"
-  #   url = "/communities"
-  #   weight = 15
+  [[menu.main]]
+    identifier = "communities"
+    name = "Communities"
+    url = "/communities"
+    weight = 15
 
-# [[menu.main]]
-#     parent = "communities"
-#     identifier = "fsharp_vienna"
-#     name = "F# Vienna"
-#     url = "/communities/fsharp_vienna"
-#     weight = 16
+[[menu.main]]
+    parent = "communities"
+    identifier = "fsharp_vienna"
+    name = "F# Vienna"
+    url = "/communities/fsharp_vienna"
+    weight = 16
 
-# [[menu.main]]
-#     parent = "communities"
-#     identifier = "dotnet_community_austria"
-#     name = ".NET Community Austria"
-#     url = "/communities/dotnet_community_austria"
-#     weight = 17
+[[menu.main]]
+    parent = "communities"
+    identifier = "dotnet_community_austria"
+    name = ".NET Community Austria"
+    url = "/communities/dotnet_community_austria"
+    weight = 17
 
   [[menu.main]]
     identifier = "posts"
