@@ -26,10 +26,10 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/"
     weight = 10
 
+
   [[menu.main]]
     identifier = "bundeslaender"
     name = "Bundesländer"
-    url = "/bundesland"
     weight = 12
 
   [[menu.main]]
@@ -60,7 +60,6 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/bundesland/oberoesterreich"
     weight = 4
 
-
  [[menu.main]]
     parent = "bundeslaender"
     identifier = "salzburg"
@@ -68,14 +67,12 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/bundesland/salzburg"
     weight = 5
 
-
  [[menu.main]]
     parent = "bundeslaender"
     identifier = "tirol"
     name = "Tirol"
     url = "/bundesland/tirol"
     weight = 6
-
   
  [[menu.main]]
     parent = "bundeslaender"
@@ -83,7 +80,6 @@ defaultContentLanguage = "de"           # Default language to use
     name = "Vorarlberg"
     url = "/bundesland/vorarlberg"
     weight = 7
-
 
  [[menu.main]]
     parent = "bundeslaender"
@@ -99,41 +95,43 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/bundesland/kaernten"
     weight = 9
 
-  
 
 
-
- 
-
-
-  [[menu.main]]
+ [[menu.main]]
     identifier = "communities"
     name = "Communities"
-    url = "/communities"
     weight = 15
 
-[[menu.main]]
+ [[menu.main]]
     parent = "communities"
     identifier = "fsharp_vienna"
     name = "F# Vienna"
     url = "/communities/fsharp_vienna"
     weight = 16
 
-[[menu.main]]
+ [[menu.main]]
     parent = "communities"
     identifier = "dotnet_community_austria"
     name = ".NET Community Austria"
     url = "/communities/dotnet_community_austria"
     weight = 17
 
-  [[menu.main]]
+
+
+
+ [[menu.main]]
+    identifier = "team"
+    name = "Team"
+    weight = 18
+    url = "/team/"
+
+ [[menu.main]]
     identifier = "posts"
     name = "Blog Archiv"
     weight = 20
     url = "/post/"
 
-
-  [[menu.main]]
+[[menu.main]]
     identifier = "slack"
     name = "Slack"
     url = "https://join.slack.com/t/dotnetdevsaustria/shared_invite/enQtMjcyNTA1NjMxNjg2LWNhYmQ2NDM4MGFjNDA4MWFmZTE1MDRkNTViMWIzYzgyMGI1MjQ1ZTZlNjZmMTExZjFmMjNkODZjODZhOGFmZjU"
