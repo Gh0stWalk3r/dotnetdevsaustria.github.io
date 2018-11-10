@@ -18,17 +18,7 @@
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/team/andreaswillich/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dotnetdevs.at/communities/fsharp_vienna/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/team/gregorbeyerle/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -44,11 +34,6 @@
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/oberoesterreich/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/team/raoulholzer/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -88,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://dotnetdevs.at/team/</loc>
+    <lastmod>2017-08-20T21:38:52+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dotnetdevs.at/</loc>
     <lastmod>2018-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -112,12 +102,6 @@
   
   <url>
     <loc>https://dotnetdevs.at/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/team/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
