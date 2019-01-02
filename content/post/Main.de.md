@@ -1,6 +1,6 @@
 ---
 title: Willkommen bei den .NET Developers Austria
-date: 2018-01-01T00:00:00+02:00
+date: 2019-01-01T00:00:00+02:00
 weight: 1
 ---
 

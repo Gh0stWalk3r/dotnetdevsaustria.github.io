@@ -134,7 +134,7 @@ defaultContentLanguage = "de"           # Default language to use
 [[menu.main]]
     identifier = "slack"
     name = "Slack"
-    url = "https://join.slack.com/t/dotnetdevsaustria/shared_invite/enQtMjcyNTA1NjMxNjg2LWNhYmQ2NDM4MGFjNDA4MWFmZTE1MDRkNTViMWIzYzgyMGI1MjQ1ZTZlNjZmMTExZjFmMjNkODZjODZhOGFmZjU"
+    url = "/slack/"
     weight = 40
 
 [params]
@@ -159,7 +159,7 @@ defaultContentLanguage = "de"           # Default language to use
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+  customCSS = ['style.css']            # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   showMenuLanguageChooser = true
