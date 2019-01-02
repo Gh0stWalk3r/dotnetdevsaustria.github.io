@@ -9,57 +9,62 @@
   
   <url>
     <loc>https://dotnetdevs.at/en/communities/dotnet_community_austria/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/en/bundesland/niederoesterreich/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/en/bundesland/oberoesterreich/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/burgenland/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/kaernten/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/bundesland/niederoesterreich/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/salzburg/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/steiermark/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/tirol/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/en/bundesland/vorarlberg/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <loc>https://dotnetdevs.at/en/bundesland/oberoesterreich/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/wien/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/bundesland/vorarlberg/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/slack/</loc>
+    <lastmod>2017-08-20T21:38:52+08:00</lastmod>
   </url>
   
   <url>
@@ -69,13 +74,13 @@
   
   <url>
     <loc>https://dotnetdevs.at/en/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +95,7 @@
   
   <url>
     <loc>https://dotnetdevs.at/en/post/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

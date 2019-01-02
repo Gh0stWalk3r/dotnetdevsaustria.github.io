@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://dotnetdevs.at/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>.NET Community Austria</title>
       <link>https://dotnetdevs.at/en/communities/dotnet_community_austria/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://dotnetdevs.at/en/communities/dotnet_community_austria/</guid>
       
@@ -36,9 +36,35 @@
     </item>
     
     <item>
+      <title>Burgenland</title>
+      <link>https://dotnetdevs.at/en/bundesland/burgenland/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/bundesland/burgenland/</guid>
+      
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Burgenland.&lt;br /&gt;
+If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Carinthia</title>
+      <link>https://dotnetdevs.at/en/bundesland/kaernten/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/bundesland/kaernten/</guid>
+      
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Carinthia.&lt;br /&gt;
+If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Lower Austria</title>
       <link>https://dotnetdevs.at/en/bundesland/niederoesterreich/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://dotnetdevs.at/en/bundesland/niederoesterreich/</guid>
       
@@ -47,9 +73,46 @@
     </item>
     
     <item>
+      <title>Salzburg</title>
+      <link>https://dotnetdevs.at/en/bundesland/salzburg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/bundesland/salzburg/</guid>
+      
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Salzburg.&lt;br /&gt;
+If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Styria</title>
+      <link>https://dotnetdevs.at/en/bundesland/steiermark/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/bundesland/steiermark/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tyrol</title>
+      <link>https://dotnetdevs.at/en/bundesland/tirol/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/bundesland/tirol/</guid>
+      
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Tyrol.&lt;br /&gt;
+If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Upper Austria</title>
       <link>https://dotnetdevs.at/en/bundesland/oberoesterreich/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://dotnetdevs.at/en/bundesland/oberoesterreich/</guid>
       
@@ -59,89 +122,60 @@
     
     <item>
       <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/burgenland/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/burgenland/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/kaernten/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/kaernten/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/salzburg/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/salzburg/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/steiermark/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/steiermark/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/tirol/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/tirol/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/vorarlberg/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/vorarlberg/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
       <link>https://dotnetdevs.at/en/bundesland/wien/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://dotnetdevs.at/en/bundesland/wien/</guid>
       
-        <description></description>
+        <description>
+
+&lt;p&gt;There are multiple groups in Vienna, that are interested in .NET topics.&lt;/p&gt;
+
+&lt;h1 id=&#34;net-community-austria&#34;&gt;.NET Community Austria&lt;/h1&gt;
+
+&lt;p&gt;Meetup Seite: &lt;a href=&#34;https://www.meetup.com/dotnet-austria/&#34;&gt;https://www.meetup.com/dotnet-austria/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;f-vienna&#34;&gt;F# |&amp;gt; Vienna&lt;/h1&gt;
+
+&lt;p&gt;Meetup Seite: &lt;a href=&#34;https://www.meetup.com/FSharp-Vienna/&#34;&gt;https://www.meetup.com/FSharp-Vienna/&lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Vorarlberg</title>
+      <link>https://dotnetdevs.at/en/bundesland/vorarlberg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/bundesland/vorarlberg/</guid>
+      
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Vorarlberg.&lt;br /&gt;
+If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
+</description>
       
     </item>
     
     <item>
       <title>Welcome to the .NET Developers Austria</title>
       <link>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</guid>
       
         <description>&lt;p&gt;The .NET Developers Austria are no new .NET Community, but an union of already exisitng communities to make if easier for potential new participants to joind an existing community.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>https://dotnetdevs.at/en/slack/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/slack/</guid>
+      
+        <description>&lt;p&gt;So that we can also exchange knowledge outside of the meetups, we created a Slack channgel.&lt;br /&gt;
+Join and say hello:  &lt;a href=&#34;https://join.slack.com/t/dotnetdevsaustria/shared_invite/enQtMjcyNTA1NjMxNjg2LWNhYmQ2NDM4MGFjNDA4MWFmZTE1MDRkNTViMWIzYzgyMGI1MjQ1ZTZlNjZmMTExZjFmMjNkODZjODZhOGFmZjU&#34;&gt;Slack Invite Page&lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>

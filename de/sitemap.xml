@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -14,62 +14,67 @@
   
   <url>
     <loc>https://dotnetdevs.at/communities/dotnet_community_austria/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/communities/fsharp_vienna/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/posts/hello-world/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/bundesland/niederoesterreich/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/bundesland/oberoesterreich/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/burgenland/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/communities/fsharp_vienna/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/posts/hello-world/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/kaernten/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/niederoesterreich/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/oberoesterreich/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/salzburg/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/steiermark/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/tirol/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/vorarlberg/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/wien/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/slack/</loc>
+    <lastmod>2017-08-20T21:38:52+08:00</lastmod>
   </url>
   
   <url>
@@ -79,13 +84,13 @@
   
   <url>
     <loc>https://dotnetdevs.at/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +101,7 @@
   
   <url>
     <loc>https://dotnetdevs.at/post/</loc>
-    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
