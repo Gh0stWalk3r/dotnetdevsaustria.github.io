@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="https://dotnetdevs.at/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dotnetdevs.at/posts/willkommen-bei-den-.net-developers-austria/</loc>
+    <loc>https://dotnetdevs.at/impressum/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/posts/willkommen-bei-den-dotnetdevs.at/</loc>
     <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -13,7 +17,17 @@
   </url>
   
   <url>
+    <loc>https://dotnetdevs.at/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dotnetdevs.at/communities/dotnet_community_austria/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/bundesland/</loc>
     <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -44,6 +58,11 @@
   
   <url>
     <loc>https://dotnetdevs.at/bundesland/oberoesterreich/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/post/</loc>
     <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -83,31 +102,11 @@
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/bundesland/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dotnetdevs.at/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/post/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
