@@ -1,5 +1,5 @@
 baseURL = "https://dotnetdevs.at/"
-languageCode = "en-us"
+languageCode = "de-AT"
 title = ".NET Devs Austria"
 enableRobotsTXT = true
 enableEmoji = true
@@ -13,7 +13,7 @@ defaultContentLanguage = "de"           # Default language to use
 
 
 [author]                  # essential                     # 必需
-  name = "Andreas Willich, Raoul Holzer, Gregor Beyerle"
+  name = "DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler/innen in Österreich"
 
 
 [permalinks]
@@ -95,8 +95,6 @@ defaultContentLanguage = "de"           # Default language to use
     url = "/bundesland/kaernten"
     weight = 9
 
-
-
  [[menu.main]]
     identifier = "communities"
     name = "Communities"
@@ -115,9 +113,6 @@ defaultContentLanguage = "de"           # Default language to use
     name = ".NET Community Austria"
     url = "/communities/dotnet_community_austria"
     weight = 17
-
-
-
 
  [[menu.main]]
     identifier = "team"
@@ -141,6 +136,8 @@ defaultContentLanguage = "de"           # Default language to use
   since = "2019"            # Site creation time          # 站点建立时间
   homeFullContent = true   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
+  mainSections = ["post"]
+
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
@@ -156,7 +153,7 @@ defaultContentLanguage = "de"           # Default language to use
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
   #contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
   contentCopyright = false
-
+  
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   customCSS = ['style.css']            # if ['custom.css'], load '/static/css/custom.css' file
@@ -165,10 +162,12 @@ defaultContentLanguage = "de"           # Default language to use
   showMenuLanguageChooser = true
   #moreMeta = true
 
+  customFooter = '<a href="/impressum/" >Impressum</a>'
+
   [params.social]                                         # 社交链接
     #a-email = "mailto:your@email.com"
     #b-stack-overflow = "http://localhost:1313"
-    #c-twitter = "http://localhost:1313"
+    c-twitter = "https://twitter.com/DotNetDevsAT"
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"

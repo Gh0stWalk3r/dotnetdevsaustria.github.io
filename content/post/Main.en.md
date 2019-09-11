@@ -4,4 +4,10 @@ date: 2019-01-01T00:00:00+02:00
 draft: false
 ---
 
-The .NET Developers Austria are no new .NET Community, but an union of already exisitng communities to make if easier for potential new participants to joind an existing community.
+The DotNetDevs.at are a association, which activities are not about gaining profit, it's purpose is to spread of knowledge and experience about usage of .NET technologies.
+
+Our goals are:
+
+- make it easier for new participants to find existing communities
+- offer existing members more choice
+- promote the exchange between the different communities

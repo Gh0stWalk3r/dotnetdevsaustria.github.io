@@ -1,10 +1,10 @@
 ---
-title: Willkommen bei den .NET Developers Austria
+title: Willkommen bei den DotNetDevs.at
 date: 2019-01-01T00:00:00+02:00
 weight: 1
 ---
 
-Die .NET Developers Austria sind keine neue .NET Community, sondern ein Zusammenschluss bereits existierender Communities.  
+Die DotNetDevs.at sind ein Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Verbreitung von Wissen und Erfahrung zur Verwendung auf .NET Technologien basierter Software.
 
 Unsere Ziele sind:
 
