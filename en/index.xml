@@ -12,170 +12,47 @@
     
     
     <item>
-      <title>.NET Community Austria</title>
-      <link>https://dotnetdevs.at/en/communities/dotnet_community_austria/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      <title>Meetups</title>
+      <link>https://dotnetdevs.at/en/communities/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://dotnetdevs.at/en/communities/dotnet_community_austria/</guid>
+      <guid>https://dotnetdevs.at/en/communities/</guid>
       
-        <description>&lt;p&gt;Die .NET Community Austria wurde von Jörg Egretzberger gegründet und seit Beginn 2017 haben Raoul Holzer und Andreas Willich die Organisation der Treffen übernommen.&lt;/p&gt;
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
 
-&lt;p&gt;Um am letzten Stand über die neuesten Treffen zu bleiben, tritt dem Meetup auf &lt;a href=&#34;https://www.meetup.com/dotnet-austria/&#34;&gt;https://www.meetup.com/dotnet-austria/&lt;/a&gt; bei.&lt;/p&gt;
-
-&lt;p&gt;Für zukünftige Treffen suchen wir noch Personen die etwas zu folgenden Themen vortragen:&lt;/p&gt;
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;NodaTime &lt;a href=&#34;https://www.nodatime.org&#34;&gt;https://www.nodatime.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Erstellung von NuGet Paketen&lt;/li&gt;
-&lt;li&gt;Verwendung von Paket &lt;a href=&#34;https://fsprojects.github.io/Paket/&#34;&gt;https://fsprojects.github.io/Paket/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Simple Migrations &lt;a href=&#34;https://github.com/canton7/Simple.Migrations&#34;&gt;https://github.com/canton7/Simple.Migrations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;In Depth Async/Await mit CancellationToken Verwendung&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Burgenland</title>
-      <link>https://dotnetdevs.at/en/bundesland/burgenland/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/burgenland/</guid>
-      
-        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Burgenland.&lt;br /&gt;
-If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Carinthia</title>
-      <link>https://dotnetdevs.at/en/bundesland/kaernten/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/kaernten/</guid>
-      
-        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Carinthia.&lt;br /&gt;
-If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Lower Austria</title>
-      <link>https://dotnetdevs.at/en/bundesland/niederoesterreich/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/niederoesterreich/</guid>
-      
-        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Lower Austria.&lt;br /&gt;
-But there a some in Vienna. So perhaps you want to visit them.&lt;/p&gt;
 
-&lt;p&gt;If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
-      <title>Salzburg</title>
-      <link>https://dotnetdevs.at/en/bundesland/salzburg/</link>
+      <title>Bundeslands</title>
+      <link>https://dotnetdevs.at/en/bundesland/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/en/bundesland/salzburg/</guid>
-      
-        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Salzburg.&lt;br /&gt;
-If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Styria</title>
-      <link>https://dotnetdevs.at/en/bundesland/steiermark/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/steiermark/</guid>
+      <guid>https://dotnetdevs.at/en/bundesland/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Tyrol</title>
-      <link>https://dotnetdevs.at/en/bundesland/tirol/</link>
+      <title>Posts</title>
+      <link>https://dotnetdevs.at/en/post/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/en/bundesland/tirol/</guid>
-      
-        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Tyrol.&lt;br /&gt;
-If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Upper Austria</title>
-      <link>https://dotnetdevs.at/en/bundesland/oberoesterreich/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/oberoesterreich/</guid>
+      <guid>https://dotnetdevs.at/en/post/</guid>
       
         <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vienna</title>
-      <link>https://dotnetdevs.at/en/bundesland/wien/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/wien/</guid>
-      
-        <description>
-
-&lt;p&gt;There are multiple groups in Vienna, that are interested in .NET topics.&lt;/p&gt;
-
-&lt;h1 id=&#34;net-community-austria&#34;&gt;.NET Community Austria&lt;/h1&gt;
-
-&lt;p&gt;Meetup Seite: &lt;a href=&#34;https://www.meetup.com/dotnet-austria/&#34;&gt;https://www.meetup.com/dotnet-austria/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;f-vienna&#34;&gt;F# |&amp;gt; Vienna&lt;/h1&gt;
-
-&lt;p&gt;Meetup Seite: &lt;a href=&#34;https://www.meetup.com/FSharp-Vienna/&#34;&gt;https://www.meetup.com/FSharp-Vienna/&lt;/a&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Vorarlberg</title>
-      <link>https://dotnetdevs.at/en/bundesland/vorarlberg/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/bundesland/vorarlberg/</guid>
-      
-        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Vorarlberg.&lt;br /&gt;
-If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Welcome to the .NET Developers Austria</title>
-      <link>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</guid>
-      
-        <description>&lt;p&gt;The DotNetDevs.at are a association, which activities are not about gaining profit, it&amp;rsquo;s purpose is to spread of knowledge and experience about usage of .NET technologies.&lt;/p&gt;
-
-&lt;p&gt;Our goals are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;make it easier for new participants to find existing communities&lt;/li&gt;
-&lt;li&gt;offer existing members more choice&lt;/li&gt;
-&lt;li&gt;promote the exchange between the different communities&lt;/li&gt;
-&lt;/ul&gt;
-</description>
       
     </item>
     
@@ -206,18 +83,6 @@ Join and say hello:  &lt;a href=&#34;https://join.slack.com/t/dotnetdevsaustria/
 &lt;h1 id=&#34;raoul-holzer&#34;&gt;Raoul Holzer&lt;/h1&gt;
 
 &lt;h1 id=&#34;gregor-beyerle&#34;&gt;Gregor Beyerle&lt;/h1&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>F# Sharp Vienna</title>
-      <link>https://dotnetdevs.at/en/communities/fsharp_vienna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dotnetdevs.at/en/communities/fsharp_vienna/</guid>
-      
-        <description>&lt;p&gt;asdf&lt;/p&gt;
 </description>
       
     </item>
