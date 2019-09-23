@@ -15,8 +15,9 @@ Mohsgasse 31 / 33-36,
 Österreich
 
 **Organschaftliche Vertreter**  
-Obmann/Obfrau: Andreas Willich  
-Obmann/Obfrau Stellvertreter: Raoul Holzer
+Obmann: Andreas Willich  
+Obmann Stellvertreter: Martin Ullrich
+Kassier: Raoul Holzer
 
 **Vereinssitz:** Wien  
 **E-Mail:** [team@dotnetdev.sat](mailto:team@dotnetdev.sat)
