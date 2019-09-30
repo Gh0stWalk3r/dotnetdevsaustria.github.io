@@ -6,7 +6,7 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://dotnetdevs.at/en/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,24 @@
       <description>The DotNetDevs.at are a association, which activities are not about gaining profit, it&amp;rsquo;s purpose is to spread of knowledge and experience about usage of .NET technologies.
 Our goals are:
  make it easier for new participants to find existing communities offer existing members more choice promote the exchange between the different communities  </description>
+    </item>
+    
+    <item>
+      <title>Streaming</title>
+      <link>https://dotnetdevs.at/en/posts/streaming/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/posts/streaming/</guid>
+      <description>Since some .NET Meetups we are streaming on Twitch.tv. The recordings are with a little delay on our YouTube- Channel to find.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://dotnetdevs.at/en/posts/hello-world/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/en/posts/hello-world/</guid>
+      <description>After some preparation time we are finally online!</description>
     </item>
     
   </channel>

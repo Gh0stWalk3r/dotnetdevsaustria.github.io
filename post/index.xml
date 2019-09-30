@@ -6,7 +6,7 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://dotnetdevs.at/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,15 @@
       <description>Die DotNetDevs.at sind ein Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Verbreitung von Wissen und Erfahrung zur Verwendung auf .NET Technologien basierter Software.
 Unsere Ziele sind:
  neuen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden bestehenden TeilnehmerInnen mehr Angebot zur Verfügung stellen Förderung des Austausch zwischen den einzelnen Communities  </description>
+    </item>
+    
+    <item>
+      <title>Streaming</title>
+      <link>https://dotnetdevs.at/posts/streaming/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dotnetdevs.at/posts/streaming/</guid>
+      <description>Seit ein paar .NET Meetups streamen wir diese auf Twitch.tv. Die Recordings sind mit ein wenig Verzögerung in unserem YouTube- Channel zu finden.</description>
     </item>
     
     <item>

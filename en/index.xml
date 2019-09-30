@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://dotnetdevs.at/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,22 +35,22 @@
     </item>
     
     <item>
-      <title>Bundeslands</title>
-      <link>https://dotnetdevs.at/en/bundesland/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      <title>Posts</title>
+      <link>https://dotnetdevs.at/en/post/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/en/bundesland/</guid>
+      <guid>https://dotnetdevs.at/en/post/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://dotnetdevs.at/en/post/</link>
+      <title>Bundeslands</title>
+      <link>https://dotnetdevs.at/en/bundesland/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/en/post/</guid>
+      <guid>https://dotnetdevs.at/en/bundesland/</guid>
       
         <description></description>
       
@@ -79,6 +79,8 @@ Join and say hello:  &lt;a href=&#34;https://join.slack.com/t/dotnetdevsaustria/
         <description>
 
 &lt;h1 id=&#34;andreas-willich&#34;&gt;Andreas Willich&lt;/h1&gt;
+
+&lt;h1 id=&#34;martin-ullrich&#34;&gt;Martin Ullrich&lt;/h1&gt;
 
 &lt;h1 id=&#34;raoul-holzer&#34;&gt;Raoul Holzer&lt;/h1&gt;
 

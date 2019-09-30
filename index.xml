@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://dotnetdevs.at/index.xml" rel="self" type="application/rss+xml" />
     
@@ -295,22 +295,22 @@ Im Folgenden erklären wir, was Cookies sind und warum Sie genutzt werden, damit
     </item>
     
     <item>
-      <title>Bundeslands</title>
-      <link>https://dotnetdevs.at/bundesland/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      <title>Posts</title>
+      <link>https://dotnetdevs.at/post/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/bundesland/</guid>
+      <guid>https://dotnetdevs.at/post/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://dotnetdevs.at/post/</link>
+      <title>Bundeslands</title>
+      <link>https://dotnetdevs.at/bundesland/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://dotnetdevs.at/post/</guid>
+      <guid>https://dotnetdevs.at/bundesland/</guid>
       
         <description></description>
       
@@ -343,11 +343,18 @@ Wenn du uns dabei helfen möchtest, melde dich bei uns unter &lt;a href=&#34;mai
 
 &lt;h1 id=&#34;andreas-willich&#34;&gt;Andreas Willich&lt;/h1&gt;
 
-&lt;p&gt;Organisator von der .NET Community Austria und dem F# |&amp;gt; Vienna Meetup.&lt;/p&gt;
+&lt;p&gt;Obmann des Vereins.
+Organisator von der .NET Community Austria und dem F# |&amp;gt; Vienna Meetup.&lt;/p&gt;
+
+&lt;h1 id=&#34;martin-ullrich&#34;&gt;Martin Ullrich&lt;/h1&gt;
+
+&lt;p&gt;Obmann- Stellvertreter des Vereins
+Organisator von der .NET Community Austria.&lt;/p&gt;
 
 &lt;h1 id=&#34;raoul-holzer&#34;&gt;Raoul Holzer&lt;/h1&gt;
 
-&lt;p&gt;Organisator von der .NET Community Austria.&lt;/p&gt;
+&lt;p&gt;Kassier des Vereins
+Organisator von der .NET Community Austria.&lt;/p&gt;
 
 &lt;h1 id=&#34;gregor-beyerle&#34;&gt;Gregor Beyerle&lt;/h1&gt;
 

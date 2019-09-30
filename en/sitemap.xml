@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dotnetdevs.at/en/communities/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetdevs.at/en/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-09-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/post/</loc>
+    <lastmod>2019-09-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dotnetdevs.at/en/posts/streaming/</loc>
+    <lastmod>2019-09-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -32,12 +47,12 @@
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/en/bundesland/niederoesterreich/</loc>
+    <loc>https://dotnetdevs.at/en/posts/hello-world/</loc>
     <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dotnetdevs.at/en/post/</loc>
+    <loc>https://dotnetdevs.at/en/bundesland/niederoesterreich/</loc>
     <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -68,11 +83,6 @@
   
   <url>
     <loc>https://dotnetdevs.at/en/bundesland/vorarlberg/</loc>
-    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</loc>
     <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
