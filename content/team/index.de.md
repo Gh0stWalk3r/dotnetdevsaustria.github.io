@@ -8,10 +8,17 @@ Wenn du uns dabei helfen möchtest, melde dich bei uns unter <mailto:team@dotnet
 
 # Andreas Willich
 
+Obmann des Vereins.
 Organisator von der .NET Community Austria und dem F# |> Vienna Meetup.
+
+# Martin Ullrich
+
+Obmann- Stellvertreter des Vereins
+Organisator von der .NET Community Austria.
 
 # Raoul Holzer
 
+Kassier des Vereins
 Organisator von der .NET Community Austria.
 
 # Gregor Beyerle
