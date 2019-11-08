@@ -4,6 +4,7 @@ title = ".NET Devs Austria"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
+googleAnalytics = "UA-151903024-1"
 
 
 paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
