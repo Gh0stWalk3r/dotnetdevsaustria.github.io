@@ -12,6 +12,6 @@ window.cookieconsent.initialise({
     "message": "This website uses cookies to ensure you get the best experience on our website.",
     "dismiss": "Got it!",
     "link": "Learn more",
-    "href": "/impressum/#datenschutzerklrung"
+    "href": "/impressum/#datenschutzerklärung"
   }
 });
