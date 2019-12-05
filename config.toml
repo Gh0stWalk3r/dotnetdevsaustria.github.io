@@ -157,8 +157,8 @@ defaultContentLanguage = "de"           # Default language to use
   
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = ['style.css']            # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+  customCSS = ['style.css', 'cookieconsent.min.css']            # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = ['cookieconsent.min.js', 'cookies.js']             # if ['custom.js'], load '/static/js/custom.js' file
 
   showMenuLanguageChooser = true
   #moreMeta = true
