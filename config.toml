@@ -116,9 +116,15 @@ defaultContentLanguage = "de"           # Default language to use
     weight = 17
 
  [[menu.main]]
+    identifier = "sponsoring"
+    name = "Sponsoring"
+    weight = 18
+    url = "/sponsoring/"
+
+ [[menu.main]]
     identifier = "team"
     name = "Team"
-    weight = 18
+    weight = 19
     url = "/team/"
 
  [[menu.main]]
