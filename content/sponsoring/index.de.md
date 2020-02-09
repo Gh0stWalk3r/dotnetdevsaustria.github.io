@@ -10,6 +10,12 @@ Wir haben deshalb ein paar Pakete zusammengestellt. Diese sind ein Vorschlag.
 Unsere Meetups finden jeden Monat unter der Woche (Mo - Do) am Abend (ab 18:00) statt.  
 Teilnehmer an unseren Events sind vor allem .NET EntwicklerInnen von Junior bis Architekten. Es sind je nach Monat und Thema zwischen 30 und 50 Personen dabei.
 
+Warum sollte man uns ünterstützen?
+
+- Man kann es seinen MitarbeiterInnen leichter machen, es zu besuchen und sich fortzubilden
+- Seine Bekanntheit in der .NET EntwicklerInnen Community zu steigern
+- Employer branding
+
 Wenn du daran interessiert bist uns zu unterstützen, melde dich doch bei [uns](mailto:team@dotnetdevs.at)
 
 # Sponsor- Pakete
@@ -20,7 +26,7 @@ Wir bekommen von dir Räumlichkeiten, Essen und Getränke zur Verfügnung gestel
 
 Bei der Eröffnung bekommst du einen Slot für 5 Minuten Sprechzeit.
 
-## Location Sponsoring klein
+## Location Sponsoring Klein
 
 Du stellst uns deine Räumlichkeiten zur Verfügung. Wie der Raum gestaltet ist, ist komplett dir überlassen.  
 
