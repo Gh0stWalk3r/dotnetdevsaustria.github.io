@@ -5,10 +5,14 @@ draft: false
 weight: 1
 ---
 
-The DotNetDevs.at are a association, which activities are not about gaining profit, it's purpose is to spread of knowledge and experience about usage of .NET technologies.
+The DotNetDevs.at is an association, which activities are not about gaining profit, it's purpose is to spread knowledge and experience about the usage of .NET technologies.
 
 Our goals are:
 
 - make it easier for new participants to find existing communities
 - offer existing members more choice
 - promote the exchange between the different communities
+
+We are thanking our sponsors:  
+
+{{< figure src="/images/sponsors/tietoevry.jpg" width="300px" link="https://www.tieto.at" target="_blank">}}

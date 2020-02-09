@@ -11,3 +11,7 @@ Unsere Ziele sind:
 - neuen TeilnehmerInnen es einfacher zu machen, die bereits bestehenden Communities zu finden
 - bestehenden TeilnehmerInnen mehr Angebot zur Verfügung stellen
 - Förderung des Austausch zwischen den einzelnen Communities
+
+Wir bedanken uns bei unseren Sponsoren:
+
+{{< figure src="/images/sponsors/tietoevry.jpg" width="300px" link="https://www.tieto.at" target="_blank">}}

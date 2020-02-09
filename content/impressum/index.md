@@ -20,7 +20,7 @@ Obmann Stellvertreter: Martin Ullrich
 Kassier: Raoul Holzer  
 
 **Vereinssitz:** Wien  
-**E-Mail:** [team@dotnetdev.sat](mailto:team@dotnetdev.sat)
+**E-Mail:** [team@dotnetdevs.at](mailto:team@dotnetdevs.at)
 
 **Vereinszweck:**  
 Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Verbreitung von Wissen und Erfahrung zur Verwendung auf .NET Technologien basierter Software.

@@ -7,28 +7,28 @@ Damit wir Meetups und Events organisieren können, brauchen wir Unterstützung. 
 
 Wir haben deshalb ein paar Pakete zusammengestellt. Diese sind ein Vorschlag.
 
+Unsere Meetups finden jeden Monat unter der Woche (Mo - Do) am Abend (ab 18:00) statt.  
+Teilnehmer an unseren Events sind vor allem .NET EntwicklerInnen von Junior bis Architekten. Es sind je nach Monat und Thema zwischen 30 und 50 Personen dabei.
+
 Wenn du daran interessiert bist uns zu unterstützen, melde dich doch bei [uns](mailto:team@dotnetdevs.at)
 
 # Sponsor- Pakete
 
-
 ## Location Sponsoring
 
-Wir bekommen von dir Räumlichkeiten, Essen und Getränke zur Verfügnung gestellt.
-Wie der Raum gestaltet ist, ist komplett dir überlassen. 
+Wir bekommen von dir Räumlichkeiten, Essen und Getränke zur Verfügnung gestellt. Wie der Raum gestaltet ist, ist komplett dir überlassen.  
 
-Bei der Eröffnung bekommst du einen Slot für 3 - 5 Slides mit 5 Minuten Sprechzeit.
-
+Bei der Eröffnung bekommst du einen Slot für 5 Minuten Sprechzeit.
 
 ## Location Sponsoring klein
 
-Du stellst uns deine Räumlichkeiten zur Verfügung. 
-Wie der Raum gestaltet ist, ist komplett dir überlassen. 
+Du stellst uns deine Räumlichkeiten zur Verfügung. Wie der Raum gestaltet ist, ist komplett dir überlassen.  
 
 Bei der Eröffnungspräsentation präsentieren wir eine Slide von dir für dich.
 
 ## 200€ Sponsoring
-Du spendest uns 200€ und beim nächsten Meetup kannst du während der Eröffnung bis zu 3 Slides mit 3 Minuten Spechzeit präsentieren.
+
+Du spendest uns 200€ und beim nächsten Meetup kannst du während der Eröffnung bis zu 3 Minuten Spechzeit präsentieren.
 
 ## 100€ Sponsoring
 
