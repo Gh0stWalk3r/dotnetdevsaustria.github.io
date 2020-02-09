@@ -18,13 +18,18 @@
       
       <guid>https://dotnetdevs.at/en/posts/welcome-to-the-.net-developers-austria/</guid>
       
-        <description>&lt;p&gt;The DotNetDevs.at are a association, which activities are not about gaining profit, it&#39;s purpose is to spread of knowledge and experience about usage of .NET technologies.&lt;/p&gt;
+        <description>&lt;p&gt;The DotNetDevs.at is an association, which activities are not about gaining profit, it&amp;rsquo;s purpose is to spread knowledge and experience about the usage of .NET technologies.&lt;/p&gt;
 &lt;p&gt;Our goals are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;make it easier for new participants to find existing communities&lt;/li&gt;
 &lt;li&gt;offer existing members more choice&lt;/li&gt;
 &lt;li&gt;promote the exchange between the different communities&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;We are thanking our sponsors:&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;https://www.tieto.at&#34; target=&#34;_blank&#34;&gt;
+    &lt;img src=&#34;https://dotnetdevs.at/images/sponsors/tietoevry.jpg&#34; width=&#34;300px&#34;/&gt; &lt;/a&gt;
+&lt;/figure&gt;
+
 </description>
       
     </item>
@@ -69,7 +74,7 @@
       
       <guid>https://dotnetdevs.at/en/bundesland/burgenland/</guid>
       
-        <description>&lt;p&gt;Currently we don&#39;t know of any meetups in Burgenland.&lt;br&gt;
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Burgenland.&lt;br&gt;
 If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;mailto:team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
 </description>
       
@@ -82,7 +87,7 @@ If you are the person, who is organizing them, please send us a notice to  &lt;a
       
       <guid>https://dotnetdevs.at/en/bundesland/kaernten/</guid>
       
-        <description>&lt;p&gt;Currently we don&#39;t know of any meetups in Carinthia.&lt;br&gt;
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Carinthia.&lt;br&gt;
 If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;mailto:team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
 </description>
       
@@ -107,7 +112,7 @@ If you are the person, who is organizing them, please send us a notice to  &lt;a
       
       <guid>https://dotnetdevs.at/en/bundesland/niederoesterreich/</guid>
       
-        <description>&lt;p&gt;Currently we don&#39;t know of any meetups in Lower Austria.&lt;br&gt;
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Lower Austria.&lt;br&gt;
 But there a some in Vienna. So perhaps you want to visit them.&lt;/p&gt;
 &lt;p&gt;If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;mailto:team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -121,7 +126,7 @@ But there a some in Vienna. So perhaps you want to visit them.&lt;/p&gt;
       
       <guid>https://dotnetdevs.at/en/bundesland/salzburg/</guid>
       
-        <description>&lt;p&gt;Currently we don&#39;t know of any meetups in Salzburg.&lt;br&gt;
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Salzburg.&lt;br&gt;
 If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;mailto:team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
 </description>
       
@@ -145,7 +150,7 @@ If you are the person, who is organizing them, please send us a notice to  &lt;a
       
       <guid>https://dotnetdevs.at/en/bundesland/tirol/</guid>
       
-        <description>&lt;p&gt;Currently we don&#39;t know of any meetups in Tyrol.&lt;br&gt;
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Tyrol.&lt;br&gt;
 If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;mailto:team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
 </description>
       
@@ -185,7 +190,7 @@ If you are the person, who is organizing them, please send us a notice to  &lt;a
       
       <guid>https://dotnetdevs.at/en/bundesland/vorarlberg/</guid>
       
-        <description>&lt;p&gt;Currently we don&#39;t know of any meetups in Vorarlberg.&lt;br&gt;
+        <description>&lt;p&gt;Currently we don&amp;rsquo;t know of any meetups in Vorarlberg.&lt;br&gt;
 If you are the person, who is organizing them, please send us a notice to  &lt;a href=&#34;mailto:team@dotnetdevs.at&#34;&gt;mailto:team@dotnetdevs.at&lt;/a&gt;.&lt;/p&gt;
 </description>
       
@@ -211,9 +216,7 @@ Join and say hello:  &lt;a href=&#34;https://join.slack.com/t/dotnetdevsaustria/
       
       <guid>https://dotnetdevs.at/en/sponsoring/</guid>
       
-        <description>&lt;p&gt;So that we can also exchange knowledge outside of the meetups, we created a Slack channgel.&lt;br&gt;
-Join and say hello:  &lt;a href=&#34;https://join.slack.com/t/dotnetdevsaustria/shared_invite/enQtMjcyNTA1NjMxNjg2LTEwYWE0NjY4YTg4YWM5ZmNhMDJkZWY4YjE5YmZjNTY5ZDVkMGVkYzU3ODI1OTA5ODAzMzg3OTkwZWU3ODU3NDk&#34;&gt;Slack Invite Page&lt;/a&gt;&lt;/p&gt;
-</description>
+        <description></description>
       
     </item>
     
