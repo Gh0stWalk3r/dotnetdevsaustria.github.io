@@ -189,6 +189,7 @@ defaultContentLanguage = "de"           # Default language to use
     #o-goodreads = "http://localhost:1313"
     #p-coding = "http://localhost:1313"
     #q-bilibili = "http://localhost:1313"
+    t-slack = "https://dotnetdevsaustria.slack.com"
 
 
 [languages]
