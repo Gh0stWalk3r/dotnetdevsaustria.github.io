@@ -220,6 +220,9 @@ models:
               - type: string
                 name: t-slack
                 label: Slack
+              - type: string
+                name: u-youtube
+                label: YouTube
   basicpage:
     type: page
     label: Basic page

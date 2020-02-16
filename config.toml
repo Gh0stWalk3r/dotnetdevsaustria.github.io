@@ -190,6 +190,7 @@ defaultContentLanguage = "de"           # Default language to use
     #p-coding = "http://localhost:1313"
     #q-bilibili = "http://localhost:1313"
     t-slack = "https://dotnetdevsaustria.slack.com"
+    u-youtube = "https://www.youtube.com/channel/UCuf0V0imn7bI_wST2fEHgXQ"
 
 
 [languages]
