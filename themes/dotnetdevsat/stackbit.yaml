@@ -226,6 +226,9 @@ models:
               - type: string
                 name: v-twitch
                 label: Twitch
+              - type: string
+                name: w-meetup
+                label: Meetup
   basicpage:
     type: page
     label: Basic page
