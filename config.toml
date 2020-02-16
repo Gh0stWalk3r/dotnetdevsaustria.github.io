@@ -191,7 +191,7 @@ defaultContentLanguage = "de"           # Default language to use
     #q-bilibili = "http://localhost:1313"
     t-slack = "https://dotnetdevsaustria.slack.com"
     u-youtube = "https://www.youtube.com/channel/UCuf0V0imn7bI_wST2fEHgXQ"
-
+    v-twitch = "https://www.twitch.tv/dotnetdevsat"
 
 [languages]
   [languages.en]

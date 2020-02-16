@@ -223,6 +223,9 @@ models:
               - type: string
                 name: u-youtube
                 label: YouTube
+              - type: string
+                name: v-twitch
+                label: Twitch
   basicpage:
     type: page
     label: Basic page
